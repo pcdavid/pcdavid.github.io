@@ -29,7 +29,7 @@ github_username: pcdavid
 gitlab_username: pcdavid
 
 # Build settings
-theme: minima # see https://github.com/jekyll/minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
   - jekyll-sitemap
