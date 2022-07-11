@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: pcdavid.net
+title: Pierre-Charles David
 email: pcdavid@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal website of Pierre-Charles David
+  Homepage of Pierre-Charles David
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://pcdavid.net"
 twitter_username: _pcdavid
@@ -29,7 +29,7 @@ github_username: pcdavid
 gitlab_username: pcdavid
 
 # Build settings
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
   - jekyll-sitemap
