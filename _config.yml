@@ -21,7 +21,7 @@
 title: Pierre-Charles David
 email: pcdavid@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Homepage of Pierre-Charles David
+  Pierre-Charles David's personal website
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://pcdavid.net"
 twitter_username: _pcdavid
